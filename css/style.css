@@ -661,4 +661,34 @@ header .nevigation li a:hover {
     .titleText {
         font-size: 1em;
     }
+
+    .menu .content .box .text h3 {
+        font-size: 10px;
+    }
+
+    section {
+        padding: 14px;
+    }
+
+    .menu .content .box {
+        width: 100px;
+        border: 9px solid #FFF;
+    }
+
+    .menu .content .box .imgBox {
+        height: 76px;
+    }
+
+    .expert .content .box {
+        width: 150px;
+        padding: 11px;
+    }
+    
+    .expert .content .box .imgBox {
+        height: 168px;
+    }
+
+    .expert .content .box .text h3 {
+       font-size: 11px;
+    }
 }
